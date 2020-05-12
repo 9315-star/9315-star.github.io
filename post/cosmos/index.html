@@ -16,7 +16,7 @@
 
   </head>
   <body>
-    <div class="main px-4 flex flex-col lg:flex-row">
+    <div id="app" class="main px-4 flex flex-col lg:flex-row">
       <div id="sidebar" class="sidebar-wrapper lg:static lg:w-1/4">
   <div class="lg:sticky top-0">
     <div class="sidebar-content">
@@ -30,29 +30,9 @@
       
         <div class="animated fadeInLeft" style="animation-delay: 0.4s">
           <p class="my-4 text-gray-600 font-light hidden lg:block">
-            温故而知新
+            文章目录
           </p>
-          <div class="animated fadeInLeft social-container hidden lg:block" style="animation-delay: 0.6s">
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
+          <div class="toc-container hidden lg:block">
             
           </div>
         </div>
@@ -97,35 +77,31 @@
 </div>
 <div class="mask" onclick="closeMenu()">
 </div>
-      <div class="content-wrapper py-32 lg:p-8 lg:w-3/4">
-        <h2 class="latest-article text-lg text-gray-700 mb-8">
-          <i class="ri-article-line"></i>
-          最新文章
-        </h2>
+      <div class="content-wrapper py-32 lg:p-8 lg:w-3/4 post-detail animated fadeIn">
+        <h1 class="text-3xl font-bold lg:mt-16">Cosmos</h1>
+        <div class="text-sm text-gray-700 lg:my-8">
+          2020-05-12 / 1 min read
+        </div>
         
-  <section class="post-item md:flex pb-12 animated fadeIn" :style="{ 'animation-delay': `${0 * 0.2}s` }">
-    
-    <div class="content">
-      <a href="https://9315-star.github.io/post/cosmos/">
-        <h2 class="post-title text-xl font-extrabold mt-5 md:mt-0">Cosmos</h2>
-      </a>
-      <div class="post-abstract text-gray-700 font-light my-4">
-        
-      </div>
-      <div class="text-gray-400 text-sm font-light">2020-05-12 / 1 min read</div>
-    </div>
-  </section>
+        <div class="post-content yue">
+          <p>序——<br>
+宇宙是所有现在是的，过去有的，和将来会出现的。 我们即将开启一段旅程，经历从无穷小到无穷大，从创世之初到遥远的未来，我们将探索星系，恒星和其他世界，穿梭于时空间的引力波，邂逅居住于冰火中的生灵，探索围绕不灭恒星的行星，发现重如太阳的原子和小如原子的宇宙。<br>
+宇宙也是关于我们的故事，是以狩猎采集为生的人们如何找到通往银河之路的创奇，是一场英雄辈出的冒险。<br>
+<img src="https://9315-star.github.io//post-images/1589280536611.jpg" alt="" loading="lazy"></p>
 
-        <div class="read-more">
+        </div>
+
+        
+
+
+        <div class="flex justify-between py-8">
+          
+
           
         </div>
-        <div class="index-page">
-          <div class="pagination-container animated fadeIn">
-  
-  
-</div>
 
-        </div>
+        
+
       </div>
     </div>
 
