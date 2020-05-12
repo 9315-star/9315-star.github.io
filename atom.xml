@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://9315-star.github.io/</id>
-    <title>9315-S</title>
-    <updated>2020-05-12T11:13:14.501Z</updated>
+    <title>9315-Star</title>
+    <updated>2020-05-12T11:15:31.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://9315-star.github.io/"/>
     <link rel="self" href="https://9315-star.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>Just follow your heart &amp; intuition~</subtitle>
     <logo>https://9315-star.github.io/images/avatar.png</logo>
     <icon>https://9315-star.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 9315-S</rights>
+    <rights>All rights reserved 2020, 9315-Star</rights>
     <entry>
         <title type="html"><![CDATA[Blade Runner]]></title>
         <id>https://9315-star.github.io/post/blade-runner/</id>
