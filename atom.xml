@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://9315-star.github.io/</id>
     <title>9315-S</title>
-    <updated>2020-05-12T10:50:44.342Z</updated>
+    <updated>2020-05-12T11:00:18.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://9315-star.github.io/"/>
     <link rel="self" href="https://9315-star.github.io/atom.xml"/>
@@ -16,10 +16,15 @@
         <link href="https://9315-star.github.io/post/cosmos/">
         </link>
         <updated>2020-05-12T10:47:24.000Z</updated>
+        <summary type="html"><![CDATA[<p>序——<br>
+宇宙是所有现在是的，过去有的，和将来会出现的。 我们即将开启一段旅程，经历从无穷小到无穷大，从创世之初到遥远的未来，我们将探索星系，恒星和其他世界，穿梭于时空间的引力波，邂逅居住于冰火中的生灵，探索围绕不灭恒星的行星，发现重如太阳的原子和小如原子的宇宙。<br>
+宇宙也是关于我们的故事，是以狩猎采集为生的人们如何找到通往银河之路的创奇，是一场英雄辈出的冒险。</p>
+]]></summary>
         <content type="html"><![CDATA[<p>序——<br>
 宇宙是所有现在是的，过去有的，和将来会出现的。 我们即将开启一段旅程，经历从无穷小到无穷大，从创世之初到遥远的未来，我们将探索星系，恒星和其他世界，穿梭于时空间的引力波，邂逅居住于冰火中的生灵，探索围绕不灭恒星的行星，发现重如太阳的原子和小如原子的宇宙。<br>
-宇宙也是关于我们的故事，是以狩猎采集为生的人们如何找到通往银河之路的创奇，是一场英雄辈出的冒险。<br>
-<img src="https://9315-star.github.io//post-images/1589280536611.jpg" alt="" loading="lazy"></p>
+宇宙也是关于我们的故事，是以狩猎采集为生的人们如何找到通往银河之路的创奇，是一场英雄辈出的冒险。</p>
+<!-- more -->
+<p>待续。。。</p>
 ]]></content>
     </entry>
 </feed>
